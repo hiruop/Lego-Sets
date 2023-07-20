@@ -13,7 +13,7 @@ This dataset was compiled by Rebrickable, which is a website to help identify wh
 ##### Inspiration:
 This is a very rich dataset that offers lots of rooms for exploration, especially since the “sets” file includes the year in which a set was first released.
 
-How have the size of sets changed over time? /n
+How have the size of sets changed over time? {/n}
 What colors are associated with witch themes? Could you predict which theme a set is from just by the bricks it contains? /n
 What sets have the most-used pieces in them? What sets have the rarest pieces in them? /n
 Have the colors of LEGOs included in sets changed over time? /n
